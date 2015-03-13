@@ -1,0 +1,10 @@
+name: Innes Training
+description: Theme for OctoberCMS for the Innes Training website at http://innes.training
+author: Joe Innes
+homepage: 'http://joeinn.es'
+form:
+    fields:
+        site_name:
+            label: Site name
+            comment: The website name as it should appear on the front-end
+            default: Innes Training
